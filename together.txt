@@ -1,2 +1,4 @@
 My Capstone Project will examine trends between Anti-Social Behaviour crime statistics and other factors such as area demographics. (Helen Whitehead)
 
+My Capstone Project will examine trends of security vulnerabilities which have resulted in Cyber Incidents and advocate more investment in cyber recovery. (Prateek Mehrotra)
+
