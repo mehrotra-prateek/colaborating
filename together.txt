@@ -2,3 +2,4 @@ My Capstone Project will examine trends between Anti-Social Behaviour crime stat
 
 My Capstone Project will examine trends of security vulnerabilities which have resulted in Cyber Incidents and advocate more investment in cyber recovery. (Prateek Mehrotra)
 
+My Capstone project is going to analyze the impact of a financial performance of a company (such as the profitability, dividend policy, financial leverage) on the market capitalization. (Artem Anilov)
