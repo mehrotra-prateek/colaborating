@@ -5,3 +5,5 @@ My Capstone Project will examine trends of security vulnerabilities which have r
 My Capstone project is going to analyze the impact of a financial performance of a company (such as the profitability, dividend policy, financial leverage) on the market capitalization. (Artem Anilov)
 
 My Capstone Project will assess how the recent remote/hybrid work model affects office employees in areas like work productivity, wellbeing etc. (Loukas Kapsalis)
+
+My Capstone Project will help with understanding of practitioners workload across London and will help to optimize patient aceess to healthcare services. (Iuliia Romaniuk)
